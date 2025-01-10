@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChipSecuritySystem.cs" />
     <Compile Include="Color.cs" />
     <Compile Include="ColorChip.cs" />
     <Compile Include="Constants.cs" />
